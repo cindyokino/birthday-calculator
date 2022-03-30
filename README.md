@@ -1,4 +1,4 @@
-# Exercise: Birthday Calculator
+# Exercise: Birthday Calculator - For the Java + Angular bootcamp from The Software Guild 
 ## Overview
 Your assignment for this lab is to create an application to help people report on birthdays!
 
